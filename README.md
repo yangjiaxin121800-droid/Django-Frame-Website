@@ -1,6 +1,4 @@
-Here’s your README rewritten fully in **Markdown** format so you can use it directly as README.md:
 
-```
 # Django-Frame-Website
 
 A minimal Django project scaffold with a ready-made app structure, static files pipeline, Docker support, and environment-based settings.  
@@ -246,23 +244,6 @@ python manage.py collectstatic
 
 
 
-------
-
-
-
-
-
-## **License**
-
-
-
-
-
-Add a license file (e.g., MIT) to clarify usage terms.
-
-
-
-------
 
 
 
