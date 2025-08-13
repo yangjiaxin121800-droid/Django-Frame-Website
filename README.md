@@ -1,9 +1,6 @@
 
 # Django-Frame-Website
 
-A minimal Django project scaffold with a ready-made app structure, static files pipeline, Docker support, and environment-based settings.  
-The repository includes a base project, a `social_book` app, templating assets, and a `docker-compose` setup to run the stack locally.
-
 ## Features
 
 - Django project skeleton with a dedicated `core` module
