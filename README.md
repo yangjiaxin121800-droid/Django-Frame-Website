@@ -11,9 +11,7 @@
 - Python dependencies pinned in **requirements.txt**
 - Example **.env** file included for reference (replace with your own secrets)
 
-> **Note:** This scaffold is designed to be extended. Exact app capabilities depend on your added code.
 
----
 
 ## Quickstart (without Docker)
 
