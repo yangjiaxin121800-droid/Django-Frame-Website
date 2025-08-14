@@ -238,12 +238,3 @@ python manage.py collectstatic
 - Production-ready config (Gunicorn + Nginx, HTTPS, caching)
 
 
-
-
-
-
-
-
-
-
-```
