@@ -246,14 +246,4 @@ python manage.py collectstatic
 
 
 
-## **Acknowledgments**
-
-
-
-
-
-Built with [Django](https://www.djangoproject.com/) and open-source tools.
-
-```
-Do you want me to also **add a workflow diagram** in Markdown so it visually explains how this Django scaffold runs? That would make the README more complete.
 ```
